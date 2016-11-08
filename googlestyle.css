@@ -1,0 +1,65 @@
+body{
+	font-family: arial,sans-serif;
+}
+
+
+#top_bar a {
+	text-decoration: none;
+	color: black;
+	float: right;
+	padding: 0px 5px 0px 5px; 
+}
+#si_bb {
+	background-color: blue;
+	border: solid 1px blue;
+	border-radius: 5px;
+	color: white;
+	padding: 5px 5px 5px 5px
+}
+#logo {
+	margin-right: auto;
+	margin-left: auto;
+	text-align: center;
+	padding: 150px 0px 0px 0px;
+}
+#sbdiv {
+	text-align: center;
+	padding: 10px 0px 10px 0px;
+}
+#searchbar {
+	max-width: 400px;
+	width: 650px;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 10px 10px 10px 10px;
+	font-size: 16px;
+}
+#sb{
+	text-align: center;
+	
+	
+}
+.button {
+	text-align: center;
+	padding: 13px;
+	border: solid 2px #f2f2f2; 
+	border-radius: 2px;
+	background-color: #f2f2f2;
+	color: white;
+	font: 13px;
+	font-weight: bold;
+	color: #757575;
+	margin: 11px 4px;
+}
+input:hover{
+	border-color: black;
+	border: .5px solid;
+}
+#footer{
+	line-height: 40px;
+	width:100%;
+	background: #f2f2f2;
+	border-top: 1px solid #e4e4e4;
+	position: fixed;
+	bottom: 0; 
+}
