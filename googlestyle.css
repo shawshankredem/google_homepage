@@ -63,3 +63,18 @@ input:hover{
 	position: fixed;
 	bottom: 0; 
 }
+.rf, .lf{
+	text-decoration: none;
+	color: #757575;
+	font-size: 14px;
+}
+
+.lf{
+	float: left;
+	padding: 5px 10px;
+}
+.rf{
+	float: right;
+	padding: 5px 10px;
+}
+
